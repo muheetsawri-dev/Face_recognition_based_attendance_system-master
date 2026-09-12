@@ -1,6 +1,6 @@
-Flask
-gunicorn
+streamlit
 opencv-contrib-python
 numpy
+pandas
 Pillow
 openpyxl
