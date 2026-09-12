@@ -1,0 +1,6 @@
+Flask
+gunicorn
+opencv-contrib-python
+numpy
+Pillow
+openpyxl
